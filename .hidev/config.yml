@@ -1,0 +1,19 @@
+parent:
+    github:         hiqdev/hidev-config
+
+package:
+    name:           yii2-asset-hipanel
+    namespace:      hiqdev\assets\hipanel
+    title:          Yii2 asset for HiPanel logo and so on
+    type:           yii2-extension
+    keywords:       hipanel, asset, extension, yii2
+    year:           2015
+
+composer.json:
+    require:
+        yiisoft/yii2:               "~2.0"
+    extra:
+        asset-installer-paths:
+            npm-asset-library:      vendor/npm
+            bower-asset-library:    vendor/bower
+
