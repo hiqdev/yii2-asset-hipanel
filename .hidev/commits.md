@@ -3,6 +3,11 @@ hiqdev/yii2-asset-hipanel commits history
 
 ## Under development
 
+- Fixed code style
+    - f0737f3 2015-11-04 php-cs-fixed (sol@hiqdev.com)
+
+## 0.0.1 2015-08-21
+
 - Changed: moved to src
     - 38c4f89 2015-08-21 php-csfixed (sol@hiqdev.com)
     - aac4c8a 2015-08-21 php-cs-fixed (sol@hiqdev.com)

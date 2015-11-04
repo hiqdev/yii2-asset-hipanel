@@ -3,6 +3,10 @@ hiqdev/yii2-asset-hipanel changelog
 
 ## Under development
 
+- Fixed code style
+
+## 0.0.1 2015-08-21
+
 - Changed: moved to src
 - Added basics
 - Inited
