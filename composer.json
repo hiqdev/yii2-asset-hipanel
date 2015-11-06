@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/yii2-asset-hipanel",
     "type": "yii2-extension",
-    "description": "Yii2 asset for HiPanel logo and so on",
+    "description": "HiPanel assets for Yii2",
     "keywords": [
         "hipanel",
         "asset",

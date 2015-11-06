@@ -1,11 +1,11 @@
-Yii2 asset for HiPanel logo and so on
-=====================================
-
-Yii2 asset for HiPanel logo and so on
+HiPanel assets for Yii2
+=======================
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-hipanel/v/stable)](//packagist.org/packages/hiqdev/yii2-asset-hipanel)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-hipanel/downloads)](//packagist.org/packages/hiqdev/yii2-asset-hipanel)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-asset-hipanel/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-asset-hipanel/dev-master)
+
+Yii2 asset bundle with HiPanel logo and so on
 
 ## Installation
 
