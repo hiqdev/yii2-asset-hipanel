@@ -1,12 +1,9 @@
 package:
-    name:           yii2-asset-hipanel
-    namespace:      hiqdev\assets\hipanel
-    title:          HiPanel assets for Yii2
     type:           yii2-extension
+    name:           yii2-asset-hipanel
+    title:          HiPanel assets for Yii2
+    headline:       HiPanel Asset
     keywords:       hipanel, asset, extension, yii2
-    year:           2015
-    description:    Yii2 asset bundle with HiPanel logo and so on
+    namespace:      hiqdev\assets\hipanel
+    description:    Yii2 asset bundle with HiPanel logo and more
 
-require:
-    hiqdev/hidev-config:        "*"
-    hiqdev/hidev-config-php:    "*"
