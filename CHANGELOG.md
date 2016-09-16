@@ -1,7 +1,7 @@
 hiqdev/yii2-asset-hipanel
 -------------------------
 
-## [Under development]
+## [0.0.2] - 2016-09-16
 
 - Fixed code style
 

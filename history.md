@@ -1,9 +1,10 @@
 hiqdev/yii2-asset-hipanel
 -------------------------
 
-## [Under development]
+## [0.0.2] - 2016-09-16
 
 - Fixed code style
+    - [149b5c5] 2016-09-16 csfixed [sol@hiqdev.com]
     - [b83bd9f] 2016-09-16 redone bumping to `chkipper` [sol@hiqdev.com]
     - [f0737f3] 2015-11-04 php-cs-fixed [sol@hiqdev.com]
 
@@ -29,3 +30,4 @@ hiqdev/yii2-asset-hipanel
 [a73cc6a]: https://github.com/hiqdev/yii2-asset-hipanel/commit/a73cc6a
 [45e9e5e]: https://github.com/hiqdev/yii2-asset-hipanel/commit/45e9e5e
 [b83bd9f]: https://github.com/hiqdev/yii2-asset-hipanel/commit/b83bd9f
+[149b5c5]: https://github.com/hiqdev/yii2-asset-hipanel/commit/149b5c5
