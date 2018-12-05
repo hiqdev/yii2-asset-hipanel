@@ -43,9 +43,6 @@
             "homepage": "http://hiqdev.com/"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "~2.0"
-    },
     "require-dev": {
         "hiqdev/hidev-php": "*@dev",
         "hiqdev/hidev-hiqdev": "*@dev"
