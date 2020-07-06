@@ -16,5 +16,5 @@ class HipanelAsset extends \yii\web\AssetBundle
     /**
      * {@inheritdoc}
      */
-    public $sourcePath = '@hiqdev/assets/hipanel/assets';
+    public $sourcePath = __DIR__ . '/assets';
 }
